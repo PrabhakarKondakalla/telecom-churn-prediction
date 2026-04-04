@@ -1,0 +1,8 @@
+{
+  "train_rows": 51047,
+  "train_cols": 58,
+  "churn_rate": 0.2882,
+  "missing_cols": 14,
+  "numeric_cols": 35,
+  "cat_cols": 22
+}
